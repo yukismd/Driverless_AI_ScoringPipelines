@@ -1,48 +1,25 @@
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | # Copyright 2020 H2O.ai; Proprietary License;  -*- encoding: utf-8 -*-
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | 
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | -------------------------------------------------------------------------------
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | 
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   |                 H2O DRIVERLESS AI EXPERIMENT LOGFILE (ANONYMIZED)
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | 
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | 
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   |                            PROPRIETARY LICENSE -
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | 
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   |                 USE OF ANY PART OF THIS SOFTWARE REQUIRES A VALID,
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   |                 ONGOING LICENSE AGREEMENT WITH H2O.AI.
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | 
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   |                 Please contact sales@h2o.ai for more information.
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | 
-2020-12-26 23:37:13,720 C: NA  D:  NA    M:  NA    NODE:SERVER      17986  INFO   | -------------------------------------------------------------------------------
-2020-12-26 23:37:13,923 C:  0% D:224.9GB M:30.0GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-26 23:50:29,742 C: 13% D:224.9GB M:30.0GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-26 23:50:51,926 C: 13% D:224.9GB M:30.0GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-26 23:53:05,307 C: 13% D:224.9GB M:29.9GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-26 23:59:44,937 C: 14% D:224.9GB M:29.9GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:09:00,779 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:10:52,290 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:13:42,195 C: 14% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:13:56,792 C: 14% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:14:04,999 C: 14% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:14:33,708 C: 14% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:15:25,233 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:16:26,075 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:16:47,159 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:17:37,269 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:17:51,872 C: 14% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:18:02,955 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:32:51,818 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:35:18,776 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:35:26,446 C: 14% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:49:31,447 C:  0% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Using 1 parallel workers (1 parent workers) for fit_transform.
-2020-12-27 00:49:31,656 C:  0% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:49:31,843 C:  0% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:49:32,034 C:  0% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:49:56,300 C:  0% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Using 1 parallel workers (1 parent workers) for fit_transform.
-2020-12-27 00:49:56,493 C:  0% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:49:56,690 C:  0% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 00:49:56,897 C:  0% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 01:09:53,906 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Using 1 parallel workers (1 parent workers) for fit_transform.
-2020-12-27 01:09:54,084 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 01:09:54,281 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 01:09:54,466 C: 13% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
-2020-12-27 01:09:54,466 C:  0% D:224.9GB M:29.8GB  NODE:SERVER      17986  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | # Copyright 2020 H2O.ai; Proprietary License;  -*- encoding: utf-8 -*-
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | 
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | -------------------------------------------------------------------------------
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | 
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   |                 H2O DRIVERLESS AI EXPERIMENT LOGFILE (ANONYMIZED)
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | 
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | 
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   |                            PROPRIETARY LICENSE -
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | 
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   |                 USE OF ANY PART OF THIS SOFTWARE REQUIRES A VALID,
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   |                 ONGOING LICENSE AGREEMENT WITH H2O.AI.
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | 
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   |                 Please contact sales@h2o.ai for more information.
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | 
+2020-12-27 01:28:07,896 C: NA  D:  NA    M:  NA    NODE:SERVER      19017  INFO   | -------------------------------------------------------------------------------
+2020-12-27 01:28:08,115 C:  2% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
+2020-12-27 01:28:10,037 C: 14% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
+2020-12-27 01:28:15,692 C: 14% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
+2020-12-27 01:28:21,334 C: 13% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
+2020-12-27 01:28:35,636 C: 14% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
+2020-12-27 01:28:42,893 C: 13% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Using 1 parallel workers (1 parent workers) for fit_transform.
+2020-12-27 01:28:43,121 C: 13% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
+2020-12-27 01:28:43,336 C: 13% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
+2020-12-27 01:28:43,555 C: 13% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
+2020-12-27 01:28:43,555 C:  0% D:224.9GB M:30.2GB  NODE:SERVER      19017  INFO   | Submitted    0 and Completed    0 non-identity feature engineering tasks out of    4 total tasks (including    4 identity)
