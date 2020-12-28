@@ -1,5 +1,6 @@
 ## 環境設定
-サーバ： Ubuntu18.04
+サーバ： Ubuntu 18.04  
+Python Scoring Pipeline: Driverless AI 1.8.8  
 
 ## ファイル
 [Local/example.ipynb](./Local/example.ipynb)
