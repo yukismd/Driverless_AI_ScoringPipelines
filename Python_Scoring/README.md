@@ -4,7 +4,7 @@ Python Scoring Pipeline: Driverless AI 1.8.8
 
 ## ファイル
 [Local/example.ipynb](./Local/example.ipynb)
-- ローカル環境（サーバ上）でのスコアリングの実施サンプル  
+- サーバ上ローカル環境でのスコアリングの実施サンプル  
   
 [Clienr/run_http_client.ipynb](./Client/run_http_client.ipynb)
 - クライアントからHTTPサーバへのスコアリングのリクエスト実施のサンプル
