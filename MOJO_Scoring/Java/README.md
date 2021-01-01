@@ -1,6 +1,6 @@
 ## NOJO Java Scoring
 ### Javaプログラムからの実行
-Javaファイルのコンパイル
+Javaファイル([ExecuteDaiMojo.java](ExecuteDaiMojo.java))のコンパイル
 ```bash
 javac  -cp mojo2-runtime.jar  -J-Xms2g  ExecuteDaiMojo.java
 ```
