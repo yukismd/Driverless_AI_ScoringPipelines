@@ -1,4 +1,4 @@
-## NOJO Java Scoring
+## MOJO Java Scoring
 ### Javaプログラムからの実行
 Javaファイル([ExecuteDaiMojo.java](ExecuteDaiMojo.java))のコンパイル
 ```bash
