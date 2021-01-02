@@ -3,6 +3,7 @@
 MOJO Scoring Pipeline実行サンプル  
 
 ### Java Runtime
-[Java](./Java)  
+- [Java](./Java)  
 
 ### C++ Runtime
+- Python wrapperによる実行： [Python](./Python)
