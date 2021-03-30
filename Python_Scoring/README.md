@@ -11,9 +11,6 @@
 [Client/example_client.ipynb](./Client/example_client.ipynb)
 - クライアントからTCPサーバへのスコアリングのリクエスト実施のサンプル
 
-## 実行環境
-サーバ： Ubuntu 18.04  
-Python Scoring Pipeline: Driverless AI 1.8.8  
 
 ## Reference
 - Document:[Driverless AI Standalone Python Scoring Pipeline](http://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/scoring-standalone-python.html)
