@@ -4,9 +4,9 @@
 
 
 
-#### Client
-- クライアントからHTTPサーバへのスコアリングのリクエスト実施のサンプル: [Client/run_http_client.ipynb](./Client/run_http_client.ipynb)
-- クライアントからTCPサーバへのスコアリングのリクエスト実施のサンプル: [Client/example_client.ipynb](./Client/example_client.ipynb)
+#### Clientからの実行サンプル
+- HTTPサーバへのスコアリングのリクエスト実施のサンプル: [Client/run_http_client.ipynb](./Client/run_http_client.ipynb)
 
 
-
+#### HTTP Server files (Scoring, MLI共に)
+- 実行シェルファイル（scoring-pipeline/run_http_server.sh or scoring-pipeline/run_http_server.sh）
