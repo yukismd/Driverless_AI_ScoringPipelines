@@ -5,7 +5,7 @@
 
 
 #### Clientからの実行サンプル
-- HTTPサーバへのスコアリングのリクエスト実施のサンプル: [Client/run_http_client.ipynb](./Client/run_http_client.ipynb)
+- HTTPサーバへのスコアリングのリクエスト実施のサンプル: [run_http_client.ipynb](./run_http_client.ipynb)
 
 
 #### HTTP Server files (Scoring, MLIにおいてファイル名は共通（中身は異なる）)
