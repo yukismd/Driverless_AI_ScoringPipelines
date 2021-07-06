@@ -4,8 +4,6 @@
 
 #### クライアントサーバ環境実行：
 [Server_Client](./Server_Client)
-- クライアントからHTTPサーバへのスコアリングのリクエスト実施のサンプル: [Client/run_http_client.ipynb](./Client/run_http_client.ipynb)
-- クライアントからTCPサーバへのスコアリングのリクエスト実施のサンプル: [Client/example_client.ipynb](./Client/example_client.ipynb)
 
 
 ## Reference
