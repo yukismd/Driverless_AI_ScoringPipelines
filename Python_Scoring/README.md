@@ -5,7 +5,7 @@
 - サーバ上ローカル環境でのスコアリングの実施サンプル（画像データ）: [Local/example_image.ipynb](./Local/example_image.ipynb)
 - サーバ上ローカル環境でのK-LimeとShapleyスコアリングの実施サンプル: [Local/klime_shapley_scoring_test.ipynb](./Local/klime_shapley_scoring_test.ipynb)
 
-#### クライアントサーバ環境実行
+#### クライアントサーバ環境実行：
 [Server_Client](./Server_Client)
 - クライアントからHTTPサーバへのスコアリングのリクエスト実施のサンプル: [Client/run_http_client.ipynb](./Client/run_http_client.ipynb)
 - クライアントからTCPサーバへのスコアリングのリクエスト実施のサンプル: [Client/example_client.ipynb](./Client/example_client.ipynb)
