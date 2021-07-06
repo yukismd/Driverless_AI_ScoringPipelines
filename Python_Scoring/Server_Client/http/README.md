@@ -9,4 +9,4 @@
 
 
 #### HTTP Server files (Scoring, MLI共に)
-- 実行シェルファイル（scoring-pipeline/run_http_server.sh or scoring-pipeline/run_http_server.sh）
+- 実行シェルファイル（[scoring-pipeline/run_http_server.sh](scoring-pipeline/run_http_server.sh) or [scoring-pipeline/run_http_server.sh](scoring-pipeline/run_http_server.sh)）
