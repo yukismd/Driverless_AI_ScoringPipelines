@@ -1,4 +1,5 @@
+### サーバ上ローカル環境でのスコアリング
 
-- サーバ上ローカル環境でのスコアリングの実施サンプル: [Local/example.ipynb](./Local/example.ipynb)
-- サーバ上ローカル環境でのスコアリングの実施サンプル（画像データ）: [Local/example_image.ipynb](./Local/example_image.ipynb)
-- サーバ上ローカル環境でのK-LimeとShapleyスコアリングの実施サンプル: [Local/klime_shapley_scoring_test.ipynb](./Local/klime_shapley_scoring_test.ipynb)
+- スコアリングの実施サンプル: [example.ipynb](./example.ipynb)
+- スコアリングの実施サンプル（画像データ）: [example_image.ipynb](./example_image.ipynb)
+- K-LimeとShapleyスコアリングの実施サンプル: [klime_shapley_scoring_test.ipynb](./klime_shapley_scoring_test.ipynb)
