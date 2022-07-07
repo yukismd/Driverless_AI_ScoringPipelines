@@ -9,6 +9,7 @@ import com.opencsv.CSVWriter;
 import java.io.BufferedWriter;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
+
 public class ExecuteDaiMojo {
  public static void main(String[] args) throws IOException, LicenseException {
     // Load model and csv
