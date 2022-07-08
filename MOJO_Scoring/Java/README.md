@@ -7,13 +7,13 @@
 ### Javaプログラムからの実行
 Javaファイル([ExecuteDaiMojo.java](ExecuteDaiMojo.java))のコンパイル
 ```bash
-javac  -cp mojo2-runtime.jar  -J-Xms2g  ExecuteDaiMojo.java
+javac  -cp path/to/mojo2-runtime.jar ExecuteDaiMojo.java
 ```
 実行
 ```bash
-java  -Dai.h2o.mojos.runtime.license.file=$DRIVERLESS_AI_LICENSE_KEY  -cp  .:mojo2-runtime.jar  ExecuteDaiMojo
+java  -Dai.h2o.mojos.runtime.license.file=$DRIVERLESS_AI_LICENSE_KEY  -cp  .:path/to/mojo2-runtime.jar  ExecuteDaiMojo
 ```
-> y  
-> 2.5617633
+> MEDV  
+> 27.052086
 
 [Java API Documentに関して](https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/mojo2_javadoc.html)
