@@ -3,6 +3,7 @@
 ***
 [Java MOJO Document](https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/scoring-mojo-scoring-pipeline.html)  
 [Java API Documentに関して（javadoc）](https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/mojo2_javadoc.html)
+[VS Codeでの開発に関して](./DaiJavaMojo_vscode.pdf)
 ***
 
 ### Javaプログラムからの実行
