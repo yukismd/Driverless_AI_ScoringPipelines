@@ -7,3 +7,6 @@ tmp
 
 # mac files
 .DS_Store
+
+# ms power point files
+*.pptx
