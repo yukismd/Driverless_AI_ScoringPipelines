@@ -1,7 +1,8 @@
 ## MOJO Java Scoring
 
 ***
-[Document](https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/scoring-mojo-scoring-pipeline.html)
+[Java MOJO Document](https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/scoring-mojo-scoring-pipeline.html)
+[Java API Documentに関して（javadoc）](https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/mojo2_javadoc.html)
 ***
 
 ### Javaプログラムからの実行
@@ -16,4 +17,3 @@ java  -Dai.h2o.mojos.runtime.license.file=$DRIVERLESS_AI_LICENSE_KEY  -cp  .:pat
 > MEDV  
 > 27.052086
 
-[Java API Documentに関して](https://docs.h2o.ai/driverless-ai/latest-stable/docs/userguide/mojo2_javadoc.html)
