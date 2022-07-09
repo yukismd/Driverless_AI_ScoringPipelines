@@ -6,11 +6,11 @@
 ***
 
 ### CSVを与えるバッチスコアリング
-ライセンスファイル（license.file）を作成  
+環境変数（DRIVERLESS_AI_LICENSE_KEY）にライセンスを指定している場合  
 
 #### 予測値のスコアリング
 ```bash
-java -Dai.h2o.mojos.runtime.license.file=license.file -jar mojo2-runtime.jar pipeline.mojo example.csv
+java -jar mojo2-runtime.jar pipeline.mojo example.csv
 ```
 > MEDV  
 > 34.316986  
@@ -20,7 +20,7 @@ java -Dai.h2o.mojos.runtime.license.file=license.file -jar mojo2-runtime.jar pip
 
 #### Original Shapleyスコアリング
 ```bash
-java -Dai.h2o.mojos.runtime.license.file=license.file -jar mojo2-runtime.jar --show-contributions-original pipeline.mojo example.csv
+java -jar mojo2-runtime.jar --show-contributions-original pipeline.mojo example.csv
 ```
 > contrib_CRIM,contrib_INDUS,contrib_NOX,contrib_RM,contrib_AGE,contrib_TAX,contrib_PTRATIO,contrib_B,contrib_LSTAT,contrib_bias  
 > 0.43936695792448377,0.10544296012559155,0.8404698378253302,-2.9430116976462344,0.0,1.3195625843047516,1.340921193686255,-1.5585007203253964,12.228996639380586,22.543738252790693  
