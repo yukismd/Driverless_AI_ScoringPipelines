@@ -6,8 +6,9 @@
 ***
 
 ### CSVを与えるバッチスコアリング
-ライセンスファイル（license.file）を作成
+ライセンスファイル（license.file）を作成  
 
+#### 予測値のスコアリング
 ```bash
 java -Dai.h2o.mojos.runtime.license.file=license.file -jar mojo2-runtime.jar pipeline.mojo example.csv
 ```
@@ -17,7 +18,7 @@ java -Dai.h2o.mojos.runtime.license.file=license.file -jar mojo2-runtime.jar pip
 > 36.60863
 > :
 
-
+#### Original Shapleyスコアリング
 ```bash
 java -Dai.h2o.mojos.runtime.license.file=license.file -jar mojo2-runtime.jar --show-contributions-original pipeline.mojo example.csv
 ```
